@@ -1,0 +1,215 @@
+title:
+    - en: Scribus Development Manual
+toc:
+    - directory: introduction
+      level: 1
+      title:
+        en: Introduction
+    - directory: what_is
+      level: 1
+      title:
+        en: What is Scribus
+    - directory: ""
+      parent: what_is
+      level: 2
+      title:
+        en: DTP software
+    - directory: ""
+      parent: what_is_scribus
+      level: 2
+      title:
+        en: Volonteers, not commercial backed project
+    - directory: ""
+      parent: what_is
+      level: 2
+      title:
+        en: Team and contributors
+    - directory: ""
+      parent: what_is
+      level: 2
+      title:
+        en: Non programmers as contributors
+    - directory: helping
+      level: 1
+      title:
+        en: How can you help?
+    - directory: community
+      parent: 
+      level: 1
+      title:
+        en: How is Scribus Developed?
+    - directory: community-irc
+      parent: community
+      level: 2
+      title:
+        en: The IRC channel
+    - directory: community-mailing_list
+      parent: community
+      level: 2
+      title:
+        en: The mailing lists
+    - directory: community-forum
+      parent: community
+      level: 2
+      title:
+        en: The Forums
+    - directory: community-bug_tracker
+      parent: community
+      level: 2
+      title:
+        en: The Bug Tracker
+    - directory: community-projects
+      parent: community
+      level: 2
+      title:
+        en: The Projects Platform
+    - directory: facts
+      level: 1
+      title:
+        en: Basic facts
+    - directory: facts-cpp_qt
+      parent: facts
+      level: 2
+      title:
+        en: C++/Qt
+    - directory: facts-svn_git
+      parent: facts
+      level: 2
+      title:
+        en: SVN and Git
+    - directory: setup
+      level: 1
+      title:
+        en: Setting up your dev environment
+    - directory: setup-linux
+      parent: setup
+      level: 2
+      title:
+        en: The simple way: using Linux
+    - directory: setup-debian_ubuntu
+      parent: setup
+      level: 2
+      title:
+        en: Debian and Ubuntu
+    - directory: setup-opensuse
+      parent: setup
+      level: 2
+      title:
+        en: OpenSuse
+    - directory: setup-opensuse
+      parent: setup
+      level: 2
+      title:
+        en: OpenSuse
+    - directory: setup-fedora
+      parent: setup
+      level: 2
+      title:
+        en: Fedora
+    - directory: setup-windows
+      parent: setup
+      level: 2
+      title:
+        en: Microsoft Windows
+    - directory: setup-osx
+      parent: setup
+      level: 2
+      title:
+        en: Apple OS X
+    - directory: setup-help
+      parent: setup
+      level: 2
+      title:
+        en: Getting help
+    - directory: git
+      level: 1
+      title:
+        en: Git
+    - directory: git-scribus
+      parent: 
+      level: 2
+      title:
+        en: Working with the Scribus Git Repository
+    - directory: git-github
+      parent: 
+      level: 2
+      title:
+        en: Working with GitHub
+    - directory: qtcreator
+      level: 1
+      title:
+        en: Qt Creator
+    - directory: patch
+      level: 1
+      title:
+        en: Submitting patches
+    - directory: patch-first
+      parent: patch
+      level: 2
+      title:
+        en: Your first Patch
+    - directory: patch-testing
+      parent: patch
+      level: 2
+      title:
+        en: Getting people to test your work
+    - directory: patch-trunk
+      parent: patch
+      level: 2
+      title:
+        en: Getting your code into trunk
+    - directory: debug
+      level: 1
+      title:
+        en: Debugging
+    - directory: debug-qtcreator
+      parent: debug
+      level: 2
+      title:
+        en: Debugging with Qt Creator
+    - directory: debug-gdb
+      parent: debug
+      level: 2
+      title:
+        en: Debugging with gdb
+    - directory: debug-qdebug
+      parent: debug
+      level: 2
+      title:
+        en: Debugging with qDebug()
+    - directory: code
+      level: 1
+      title:
+        en: The Scribus Code
+    - directory: code-structure
+      parent: code
+      level: 2
+      title:
+        en: Scribus code organisation
+      status:
+        en: cf. the mailing list post by elvis
+    - directory: code-plugin
+      parent: code
+      level: 2
+      title:
+        en: Creating a Plugin
+    - directory: code-dialog
+      parent: code
+      level: 2
+      title:
+        en: Creating a dialog
+    - directory: code-undo
+      parent: code
+      level: 2
+      title:
+        en: How to add undo code
+    - directory: scripter-scripting
+      parent: code
+      level: 2
+      title:
+        en: An Introduction to Scripting
+    - directory: scripter-enhance
+      parent: code
+      level: 2
+      title:
+        en: Enhancing the Scripter
