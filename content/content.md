@@ -15,6 +15,41 @@ The current development version of Scribus is 1.5svn.
 
 If you want to play with it and, eventually, submit propositions for improvements or bug reports you can get a pre-compiled package, if one is available for your platform.
 
+## Installing the program
+
+### Ubuntu
+
+- getting the PPA from <https://launchpad.net/~scribus/+archive/ubuntu/ppa>
+
+TODO: shortly explain how to use the PPA and reference Ubuntu resources for more information.
+
+### OpenSuse
+
+### Other Linux
+
+### OS X
+
+TODO: explain how to get from homebrew
+
+- `homebrew`
+
+### Windows
+
+TODO: explain how to get a Virtualbox to work
+
+## Getting the sources and compiling them
+
+### Linux
+
+### OS X
+
+TODO: reference on working with Qt Creator
+
+### Windows
+
+TODO: reference to working with Virtualbox in the binaires part
+
+TODO: reference on working with Qt Creator
 
 
 # Working with Github
@@ -26,7 +61,9 @@ If you want to play with it and, eventually, submit propositions for improvement
 
 - Fork the Scribus repository:
     - Go to https://github.com/scribusproject/scribus
-    - Click on the button in the top right corner that says "Fork"
+    - Click on the button in the top right corner that says "Fork"  
+      !(Fork Scribus on Github)[images/github_-_fork.png]  
+      !(Fork Scribus on Github)[images/github_-_forking.gif]
     - You now have your own repository called Scribus (https://github.com/yourname/scribus, where yourname is the name you have chosen for Github)
 - Each time you want to do a patch, create a new branch of your repository, with a name that matches your change.
 - In Scribus find a string that refers to what you want to change and that is somehow not too common.
@@ -65,3 +102,13 @@ Once you have crated an account for the bug tracker you can attach your patch to
 
 - upload each diff file individually: that way they can be viewed in mantis itself
 
+# Qt5
+
+- [A Book about Qt5](http://qmlbook.org/): approaching Qt from the QML side
+
+# QML and Qt Quick
+
+- The QML reference and tutorials built in Qt creator.
+- [Qt/Qt Quick Overview](http://en.wikibooks.org/wiki/Qt/Qt_Quick_Overview)
+- [QMLBlog](http://qmlbook.org/blog/index.html)
+- [The Whole Shebang - Running QML Files Directly](http://www.ics.com/blog/whole-shebang-running-qml-files-directly?utm_medium=social+media&utm_source=social+media&utm_content=whole-shebang-running-qml-files-directly&utm_campaign=June+2014+Social+Media#.U-KhAHUci03)
