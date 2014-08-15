@@ -52,13 +52,9 @@ TODO: reference to working with Virtualbox in the binaires part
 TODO: reference on working with Qt Creator
 
 
-# Working with Github
+# Github: forking, branching and the pull request
 
 - If you don't have an account on Github, create one
-
-
-# Your first patch using GitHub
-
 - Fork the Scribus repository:
     - Go to https://github.com/scribusproject/scribus
     - Click on the button in the top right corner that says "Fork"  

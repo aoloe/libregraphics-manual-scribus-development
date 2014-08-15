@@ -8,6 +8,8 @@ The project is rebooted as a single file -- placed in the `content/` directory -
 
 The old files have been moved to `content_old/` and will be deleted as soon all the content has been copied over in the new file(s).
 
+You can contribute by forking, branching and request a pull... as described in this manual.
+
 ## Resources:
 
 - handout/scribus\_development/scribus\_development.txt
