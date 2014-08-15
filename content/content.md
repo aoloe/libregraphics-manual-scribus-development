@@ -41,3 +41,27 @@ Once you're comfortable with this way of doing, you should try to do patches on 
 # Using Qt Creator
 ...
 
+# Working with SVN
+
+The official Scribus repository is provided through SVN at <svn://scribus.net/Scribus>
+
+# Proposing a patch
+
+If you want to directly propose a patch to the Scribus, you cannot yet use the process described in the Github specific section.
+
+## Creating a patch file
+
+- when doing the diff, you have to be in the main scribus directory (the one below the "scribus/" directory that contains the whole code).
+- use the version system to create the patch:
+  - `svn diff scribus/the_file_you_have_modified > name_of_my_patch.diff`
+  - `git diff scribus/the_file_you_have_modified > name_of_my_patch.diff`
+  that way you don't have to keep a copy of the original file, but can "automatically" compare the file you modified with the version you got when you last updated the repository.
+
+Of course, you don't have to use the command line tool, but you can use your svn or git client to create the patch.
+
+## Uploading a patch to the bug tracker
+
+Once you have crated an account for the bug tracker you can attach your patch to an existing ticket (or create first a new ticket for it, if none matching exists).
+
+- upload each diff file individually: that way they can be viewed in mantis itself
+
