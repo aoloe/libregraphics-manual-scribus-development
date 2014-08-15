@@ -98,6 +98,15 @@ Once you have crated an account for the bug tracker you can attach your patch to
 
 - upload each diff file individually: that way they can be viewed in mantis itself
 
+# Working with Qt Creator
+
+## Creating a patch
+
+While the file is opened, go to `Tools > Subversion > Diff "filename.cpp"`
+
+There is also an option to make a diff of the whole source
+
+
 # Working with Qt5
 
 - [A Book about Qt5](http://qmlbook.org/): approaching Qt from the QML side
