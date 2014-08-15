@@ -106,6 +106,8 @@ While the file is opened, go to `Tools > Subversion > Diff "filename.cpp"`
 
 There is also an option to make a diff of the whole source
 
+![Diff with Qt Creator](images/qtcreator_diff.png)
+
 
 # Working with Qt5
 
