@@ -62,8 +62,8 @@ TODO: reference on working with Qt Creator
 - Fork the Scribus repository:
     - Go to https://github.com/scribusproject/scribus
     - Click on the button in the top right corner that says "Fork"  
-      !(Fork Scribus on Github)[images/github_-_fork.png]  
-      !(Fork Scribus on Github)[images/github_-_forking.gif]
+      ![Fork Scribus on Github](images/github_-_fork.png)  
+      ![Fork Scribus on Github](images/github_-_forking.gif)
     - You now have your own repository called Scribus (https://github.com/yourname/scribus, where yourname is the name you have chosen for Github)
 - Each time you want to do a patch, create a new branch of your repository, with a name that matches your change.
 - In Scribus find a string that refers to what you want to change and that is somehow not too common.
