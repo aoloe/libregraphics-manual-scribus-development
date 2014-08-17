@@ -71,6 +71,9 @@ TODO: reference on working with Qt Creator
 - Don't use the same branch for other changes, since those will be added to the pull request you already sent.
 Once you're comfortable with this way of doing, you should try to do patches on the source code that you have pulled on your computer.
 
+- create a remote branch: https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+- syncing from upstream: https://help.github.com/articles/syncing-a-fork
+
 # Using Qt Creator
 ...
 
