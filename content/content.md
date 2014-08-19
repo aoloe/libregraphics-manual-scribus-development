@@ -56,7 +56,7 @@ TODO: reference on working with Qt Creator
 
 This chapter has been inspired by https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 
-I should integrate some things <from http://forum.freecadweb.org/viewtopic.php?f=17&t=3781>
+I should integrate some things <from http://forum.freecadweb.org/viewtopic.php?f=17&t=3781> (using mantis instead of the forum?)
 
 ## Github
 
