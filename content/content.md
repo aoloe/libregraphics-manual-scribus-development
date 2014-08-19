@@ -58,6 +58,8 @@ This chapter has been inspired by https://github.com/Kunena/Kunena-Forum/wiki/Cr
 
 I should integrate some things <from http://forum.freecadweb.org/viewtopic.php?f=17&t=3781> (using mantis instead of the forum?)
 
+> TODO: add a short version of this document? (tldr.md)
+
 ## Github
 
 - If you don't have an account on Github, create one
