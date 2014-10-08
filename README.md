@@ -14,3 +14,6 @@ You can contribute by forking, branching and request a pull... as described in t
 
 - handout/scribus\_development/scribus\_development.txt
 - scribus-ui-iv-iu/SamplePlugin/08\_Documentation/01\_HowToCreateAPlugin.mk
+
+# Possible insipiration
+- [Building Krita on Linux for cats](http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats): a cute howto by david revoy
