@@ -1,3 +1,9 @@
+This repository is now (hopefully definitively) depracated.
+
+Please refer to https://github.com/aoloe/scribus-manual-development instead.
+
+All the content should have been copied over.
+
 # Developing Scribus
 
 (or contributing to Scribus)
